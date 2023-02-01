@@ -1,0 +1,14 @@
+body{
+margin: 0;
+}
+header{
+    background-color: aquamarine;
+    padding: 12px;
+    text-align: center;
+}
+.div{
+    font-family: serif;
+    color:brown;
+    text-align: center;
+    font-size: large;
+}
